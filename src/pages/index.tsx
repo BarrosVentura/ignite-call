@@ -1,7 +1,7 @@
-
+import { Heading } from "@ignite-ui/react";
 
 export default function Home() {
   return (
-    <div>opa eae</div>
+    <Heading>Opa eae</Heading>
   )
 }
